@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Bachelor of Computer Application, computer programming and Mathematics.
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in DevOps and Machine Learning .
 - ✍️ &nbsp; Playing Games and trying to learn in public.
@@ -22,10 +22,11 @@
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-xt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vaibhav's Github Stats">
-
+<br>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-xt&show_icons=true&theme=onedark" />
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-xt&show_icons=true&theme=radical)](https://github.com/REXTERIA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-xt&show_icons=true&theme=radical)](https://github.com/vaibhav-xt/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
