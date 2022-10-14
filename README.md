@@ -1,3 +1,4 @@
+[![@vaibhav_xt's Holopin board](https://holopin.me/vaibhav_xt)](https://holopin.io/@vaibhav_xt)
 <h2> Hey there! I'm Vaibhav. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -20,6 +21,7 @@
 - 🖥 &nbsp; Adobe Premiere Pro | Photoshop
 
 <br>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-xt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vaibhav's Github Stats">
 <br>
