@@ -8,9 +8,10 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Bachelor of Computer Application, computer programming and Mathematics.
 - 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in DevOps and Machine Learning .
-- ✍️ &nbsp; Playing Games and trying to learn in public.
-- ☕ &nbsp; I Teach Mathematics as Home Tution. 
+- 🌱 &nbsp; Enthusiast in DevOps and Full Stack Development.
+- ✍️ &nbsp; Trying to learn in public.
+- 👨‍🏫 &nbsp; I Teach Mathematics as Home Tution.
+- 🎮 &nbsp: Playing eSports game.
 
 <h3>🛠 Tech Stack</h3>
 
