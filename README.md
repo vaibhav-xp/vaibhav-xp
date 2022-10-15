@@ -11,7 +11,7 @@
 - 🌱 &nbsp; Enthusiast in DevOps and Full Stack Development.
 - ✍️ &nbsp; Trying to learn in public.
 - 👨‍🏫 &nbsp; I Teach Mathematics as Home Tution.
-- 🎮 &nbsp: Playing eSports game.
+- 🎮 &nbsp; Playing eSports game.
 
 <h3>🛠 Tech Stack</h3>
 
