@@ -36,8 +36,6 @@
 
 <p align="center">
 &nbsp; <a href="https://vaibhav-maurya.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://vaibhav-maurya.netlify.app/images/fav.png" width="50" /></a>
-<p align="center">
-&nbsp; <a href="https://twitter.com/vaibhav_cc" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://vibhuu.hashnode.dev/" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" width="45" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/vaibhavmaurya09/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:vibhu.astute@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
