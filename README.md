@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | NodeJs 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Premiere Pro | Photoshop
