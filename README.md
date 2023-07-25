@@ -34,9 +34,6 @@
 
  ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-xt&show_icons=true&locale=en&theme=tokyonight) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhav-xt&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
 | :---: | :---: |
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-xt&show_icons=true&theme=radical)](https://github.com/vaibhav-xt/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
