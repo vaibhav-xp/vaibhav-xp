@@ -19,11 +19,11 @@
 
 - Enthusiast in Full Stack & Blockchain Development.
 
--  I write blogs at [Hashnode](https://vibhuu.hashnode.dev)
+-  I write blogs at [Hashnode](https://vaibhav-xp.hashnode.dev)
 
 -  How to reach me **vibhu.astute@gmail.com**
 
--  Check [Resume](https://1drv.ms/w/s!Ano_WgZFmuMkgTAr3WK90uaZvaqt?e=1hjdRc)
+-  Check [Resume](https://1drv.ms/w/c/24e39a45065a3f7a/EVBynv4RVGFGmuOZKRDBGSUBuwzpiOCufZKEFwyjqgVxKQ?e=4shc21)
 
 
 
