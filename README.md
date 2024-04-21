@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/vaibhav-xt/vaibhav-xt/assets/90946899/7663bdc0-009e-4f09-be78-fad75464fa61" alt="babel" width="1210px" />
+<img src="https://github.com/vaibhav-xp/vaibhav-xt/assets/90946899/7663bdc0-009e-4f09-be78-fad75464fa61" alt="babel" width="1210px" />
 
 <div align="left" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
@@ -10,7 +10,7 @@
 
 <div align="left">
    <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=vaibhav-xt&style=flat-square" alt="vaibhav-xt" />
+    <img src="https://komarev.com/ghpvc/?username=vaibhav-xp&style=flat-square" alt="vaibhav-xp" />
    </a>
 </div>
 
@@ -29,10 +29,10 @@
 
 <h2 align='center'> 🔍 Connect with me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/vaibhavmaurya09" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/vaibhav_txt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://www.youtube.com/@vaibhav-xt" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"/></a>
-<a href="https://www.showwcase.com/vaibhav-xt" target="blank"><img align="center" src="https://img.shields.io/badge/Showwcase-0A0D14.svg?style=for-the-badge&logo=Showwcase&logoColor=white" alt="showcase" /></a>
+<a href="https://linkedin.com/in/vaibhav-xp" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/vaibhav_xp" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" /></a>
+<a href="https://www.youtube.com/@vaibhav-xp" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"/></a>
+<a href="https://www.showwcase.com/vaibhav-xp" target="blank"><img align="center" src="https://img.shields.io/badge/Showwcase-0A0D14.svg?style=for-the-badge&logo=Showwcase&logoColor=white" alt="showcase" /></a>
 </p>
 <br>
 <h2 align='center'> :pencil: Technical Skills</h2>
@@ -74,7 +74,7 @@
  
 
 
- ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-xt&show_icons=true&locale=en&theme=tokyonight) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhav-xt&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
+ ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-xp&show_icons=true&locale=en&theme=tokyonight) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhav-xp&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
 | :---: | :---: |
   
 
